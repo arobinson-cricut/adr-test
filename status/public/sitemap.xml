@@ -2,23 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/005/</loc>
+    <lastmod>2024-01-02T04:14:54-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/accounts/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/discovery/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/text/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2024-01-02T04:14:54-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2024-01-02T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/discovery/</loc>
+    <lastmod>2024-01-02T04:14:54-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/search/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2024-01-02T04:14:54-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2024-01-02T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/004/</loc>
+    <lastmod>2023-02-02T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/003/</loc>
+    <lastmod>2023-01-02T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/001/</loc>
+    <lastmod>2022-02-02T04:14:54-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
